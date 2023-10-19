@@ -1,0 +1,12 @@
+D:\User\Desktop\VB\ForexConverter\ForexConverter\bin\Debug\ForexConverter.exe.config
+D:\User\Desktop\VB\ForexConverter\ForexConverter\bin\Debug\ForexConverter.exe
+D:\User\Desktop\VB\ForexConverter\ForexConverter\bin\Debug\ForexConverter.pdb
+D:\User\Desktop\VB\ForexConverter\ForexConverter\bin\Debug\ForexConverter.xml
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.vbproj.AssemblyReference.cache
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.Form1.resources
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.Resources.resources
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.vbproj.GenerateResource.cache
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.vbproj.CoreCompileInputs.cache
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.exe
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.xml
+D:\User\Desktop\VB\ForexConverter\ForexConverter\obj\Debug\ForexConverter.pdb
